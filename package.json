@@ -1,6 +1,6 @@
 {
   "name": "mergemaster",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "description": "AI-powered coding assistant with an interactive terminal interface. Multi-model support (GPT-5.1, GPT-4o, Claude Sonnet 4.5, Opus, Haiku). Session persistence, command approval, and real-time streaming.",
   "main": "./dist/index.js",
@@ -9,7 +9,8 @@
   },
   "files": [
     "dist",
-    "README.md"
+    "README.md",
+    "LICENSE"
   ],
   "scripts": {
     "start": "tsx src/index.ts",
@@ -31,11 +32,15 @@
     "developer-tools",
     "code-generation"
   ],
-  "author": "",
+  "author": "Aditya Tipre",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/mergemaster.git"
+    "url": "https://github.com/atipre/mergemaster.git"
+  },
+  "homepage": "https://github.com/atipre/mergemaster#readme",
+  "bugs": {
+    "url": "https://github.com/atipre/mergemaster/issues"
   },
   "engines": {
     "node": ">=18.0.0"

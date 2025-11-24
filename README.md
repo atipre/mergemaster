@@ -1,7 +1,7 @@
 # MergeMaster 🎯
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/node-%3E%3D18-brightgreen?logo=node.js&logoColor=white) ![Version](https://img.shields.io/badge/version-1.0.0-ff69b4) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen) ![License](https://img.shields.io/badge/license-MIT-d10000) 
+![Node.js](https://img.shields.io/badge/node-%3E%3D18-brightgreen?logo=node.js&logoColor=white) ![Version](https://img.shields.io/badge/version-1.0.2-ff69b4) ![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen) ![License](https://img.shields.io/badge/license-MIT-d10000) 
 
 </div>
 
@@ -36,7 +36,7 @@ npm install -g mergemaster
 
 **Or run locally:**
 ```bash
-git clone https://github.com/yourusername/mergemaster.git
+git clone https://github.com/atipre/mergemaster.git
 cd mergemaster
 npm install
 npm start
