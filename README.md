@@ -22,6 +22,9 @@ MergeMaster is a powerful terminal-based coding agent that helps you write, unde
 
 ## 🎥 Demo
 
+https://github.com/user-attachments/assets/6066b9a4-f1e1-4603-8f88-ba9ce46bcb94
+
+
 ## 🚀 Quick Start
 
 ### Installation
